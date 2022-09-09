@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\codin\oop week3\JOTE1\bin\Debug\net6.0\JOTE1.exe
+C:\Users\ACER\Desktop\codin\oop week3\JOTE1\bin\Debug\net6.0\JOTE1.deps.json
+C:\Users\ACER\Desktop\codin\oop week3\JOTE1\bin\Debug\net6.0\JOTE1.runtimeconfig.json
+C:\Users\ACER\Desktop\codin\oop week3\JOTE1\bin\Debug\net6.0\JOTE1.dll
+C:\Users\ACER\Desktop\codin\oop week3\JOTE1\bin\Debug\net6.0\JOTE1.pdb
+C:\Users\ACER\Desktop\codin\oop week3\JOTE1\obj\Debug\net6.0\JOTE1.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\codin\oop week3\JOTE1\obj\Debug\net6.0\JOTE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\codin\oop week3\JOTE1\obj\Debug\net6.0\JOTE1.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\codin\oop week3\JOTE1\obj\Debug\net6.0\JOTE1.AssemblyInfo.cs
+C:\Users\ACER\Desktop\codin\oop week3\JOTE1\obj\Debug\net6.0\JOTE1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\codin\oop week3\JOTE1\obj\Debug\net6.0\JOTE1.dll
+C:\Users\ACER\Desktop\codin\oop week3\JOTE1\obj\Debug\net6.0\refint\JOTE1.dll
+C:\Users\ACER\Desktop\codin\oop week3\JOTE1\obj\Debug\net6.0\JOTE1.pdb
+C:\Users\ACER\Desktop\codin\oop week3\JOTE1\obj\Debug\net6.0\JOTE1.genruntimeconfig.cache
+C:\Users\ACER\Desktop\codin\oop week3\JOTE1\obj\Debug\net6.0\ref\JOTE1.dll
